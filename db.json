@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "title": "Yağ",
+      "created_At": "2022-06-04T10:29:14.591Z",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "title": "Peynir",
+      "created_At": "2022-06-04T10:29:18.615Z",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "title": "Zeytin",
+      "created_At": "2022-06-04T10:29:23.343Z",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "title": "Ekmek",
+      "created_At": "2022-06-04T10:29:26.895Z",
+      "completed": false,
+      "id": 5
+    }
+  ]
+}
